@@ -1,0 +1,13 @@
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\bin\Debug\KSoftDBRestoreManager.exe.config
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\bin\Debug\KSoftDBRestoreManager.exe
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\bin\Debug\KSoftDBRestoreManager.pdb
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\obj\Debug\KSoftDBRestoreManager.Properties.Resources.resources
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\obj\Debug\KSoftDBRestoreManager.csproj.GenerateResource.Cache
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\obj\Debug\KSoftDBRestoreManager.exe
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\obj\Debug\KSoftDBRestoreManager.pdb
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\bin\Debug\MySql.Data.dll
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\bin\Debug\MySqlBackup.dll
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\bin\Debug\MySql.Data.xml
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\obj\Debug\KSoftDBRestoreManager.csprojResolveAssemblyReference.cache
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\obj\Debug\KSoftDBRestoreManager.csproj.KSoftDBRestoreManager.exe.config
+c:\users\prasadh\documents\visual studio 2015\Projects\KSoftDBRestoreManager\obj\Debug\KSoftDBRestoreManager.KSoftDBRestoreManager.resources
